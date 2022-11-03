@@ -27,10 +27,13 @@ savedmodel.pkl: Trained model
 To train your own model with different images you can use the dataset folder and add your images there
 Steps
 1. Data Collection
+
 collect images and separte each person image ini separate folders
 2. Data Cleaning
+
 use the code to crop the face and create them in cropped folder in dataset. Manually check cropped photos to ensure no inconsistent images. These cropped images will be used to train the model. 
 3. Training Model
+
 Trained model- using raw images and wavelet transformed images to perform vertical stacking of them and train model and then hyper tune it!
 Wavelet transformed imaged- to extract features from a cropped image!
 GridSearch used to try different models with different parameters and come up with best model and parameters
