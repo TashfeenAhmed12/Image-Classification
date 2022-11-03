@@ -28,7 +28,7 @@ Trained model-To train your own model with different images you can use the data
 Steps
 1. Data Collection
 
-collect images and separte each person image ini separate folders
+collect images and separte each person image in separate folders
 
 2. Data Cleaning
 
