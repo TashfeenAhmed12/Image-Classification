@@ -29,9 +29,11 @@ Steps
 1. Data Collection
 
 collect images and separte each person image ini separate folders
+
 2. Data Cleaning
 
-use the code to crop the face and create them in cropped folder in dataset. Manually check cropped photos to ensure no inconsistent images. These cropped images will be used to train the model. 
+use the code to crop the face and create them in cropped folder in dataset. Manually check cropped photos to ensure no inconsistent images. These cropped images will be used to train the model.
+
 3. Training Model
 
 Trained model- using raw images and wavelet transformed images to perform vertical stacking of them and train model and then hyper tune it!
