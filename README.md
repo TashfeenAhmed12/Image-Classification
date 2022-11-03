@@ -29,8 +29,7 @@ Trained model- using raw images and wavelet transformed images to perform vertic
 Wavelet transformed imaged- to extract features from a cropped image!
 GridSearch used to try different models with different parameters and come up with best model and parameters
 
-Note: if following error is given while running code : error: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'- It means in dataset folder cropped folder already exists. 
-To fix it delete cropped folder and rerun code
+Note: if following error is given while running code : error: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'- Delete cropped folder manually if present and rerun code
 
 
 
