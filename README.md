@@ -22,9 +22,9 @@ Celecrity classification.ipynb: contains the code created on Jupyter notebook to
 
 classdictionary: A specific number is given to each person for model traning 
 
-savedmodel.pkl: Trained model
+savedmodel.pkl: 
+Trained model-To train your own model with different images you can use the dataset folder and add your images there
 
-To train your own model with different images you can use the dataset folder and add your images there
 Steps
 1. Data Collection
 
