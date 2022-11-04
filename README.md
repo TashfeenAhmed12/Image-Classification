@@ -1,6 +1,7 @@
 # Image Classification
  Create and train an image classifying model using opencv, SVM and opengridsearch on Jupyter
 Manual data cleaning for 7 faces 
+
 	1. Rihanna
 	
 	2. Amitabh Bachchan 
