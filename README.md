@@ -1,12 +1,18 @@
-# Image-Classification
+# Image Classification
  Create and train an image classifying model using opencv, SVM and opengridsearch on Jupyter
 Manual data cleaning for 7 faces 
 	1. Rihanna
+	
 	2. Amitabh Bachchan 
+	
 	3. Dwayne Johnson
+	
 	4. harry Styles
+	
 	5. Kylie Jenner
+	
 	6. Leonardo DiCaprio 
+	
  7. Steve Harvey
 Technologies used in this project, Jupyter notebook, Sklearn for model building, Matplotlib and Seaborn for data visualization, Python, Numpy and OpenCV for data cleaning
 
