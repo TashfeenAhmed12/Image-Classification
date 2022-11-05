@@ -14,7 +14,7 @@ Manual data cleaning for 7 faces
 	
 	6. Leonardo DiCaprio 
 	
- 7. Steve Harvey
+	7. Steve Harvey
  
 Technologies used in this project, Jupyter notebook, Sklearn for model building, Matplotlib and Seaborn for data visualization, Python, Numpy and OpenCV for data cleaning
 
