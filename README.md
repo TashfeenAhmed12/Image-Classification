@@ -1,4 +1,5 @@
 # Image Classification
+# Project Description
  Create and train an image classifying model using opencv, SVM and opengridsearch on Jupyter
 Manual data cleaning for 7 faces 
 
@@ -33,6 +34,7 @@ classdictionary: A specific number is given to each person for model traning
 savedmodel.pkl: 
 Trained model-To train your own model with different images you can use the dataset folder and add your images there
 
+# Methodology
 Steps
 1. Data Collection
 
