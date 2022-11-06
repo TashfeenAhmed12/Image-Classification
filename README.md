@@ -50,6 +50,25 @@ Trained model- using raw images and wavelet transformed images to perform vertic
 Wavelet transformed imaged- to extract features from a cropped image!
 GridSearch used to try different models with different parameters and come up with best model and parameters
 
+# Objective
+This project aims is to use machine learning techniques to create a model to identify images that can help businesses. Some of the ways it can be helpful are listed below.
+
+1. Increase Productivity
+
+2. Build Better Content.
+
+3. Prepare for Future Processes.
+
+4. Incorporate in Automation.
+
+5. Assist in Security Threats.
+
+6. Leverage in Hiring Processes.
+
+7. Streamline Customer Processes.
+
+8. Identify Variables in Images.
+
 Note: if following error is given while running code : error: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'- Delete cropped folder manually if present and rerun code
 
 
